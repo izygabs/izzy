@@ -1,0 +1,24 @@
+img {
+    margin-left: 350px;
+    width: 200px;
+    height: 250px;
+
+}
+.top {
+    text-align: left;
+    color: blue;
+}
+
+.foot {
+    margin: left 50px;
+    color: blue;
+}
+.tip {
+    margin-left: 370px;
+}
+.tip1 {
+    margin-left: 360px;
+    font-size: large;
+    
+    
+}
